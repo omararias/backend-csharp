@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\funciones lambda\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF4E4D3-C071-425B-A7C5-8AA832F07F7D}|funciones lambda\\funciones lambda.csproj|c:\\users\\omar\\documents\\github\\backend-csharp\\funciones lambda\\funciones lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF4E4D3-C071-425B-A7C5-8AA832F07F7D}|funciones lambda\\funciones lambda.csproj|solutionrelative:funciones lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\funciones lambda\\funciones lambda\\Program.cs",
+              "RelativeDocumentMoniker": "funciones lambda\\Program.cs",
+              "ToolTip": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\funciones lambda\\funciones lambda\\Program.cs",
+              "RelativeToolTip": "funciones lambda\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T23:18:49.008Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

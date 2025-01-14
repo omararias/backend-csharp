@@ -1,0 +1,15 @@
+C:\Users\Omar\Documents\GitHub\backend-csharp\programacion funcional inmutabilidad\ConsoleApp_funcional\obj\Debug\net8.0\ConsoleApp_funcional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omar\Documents\GitHub\backend-csharp\programacion funcional inmutabilidad\ConsoleApp_funcional\obj\Debug\net8.0\ConsoleApp_funcional.AssemblyInfoInputs.cache
+C:\Users\Omar\Documents\GitHub\backend-csharp\programacion funcional inmutabilidad\ConsoleApp_funcional\obj\Debug\net8.0\ConsoleApp_funcional.AssemblyInfo.cs
+C:\Users\Omar\Documents\GitHub\backend-csharp\programacion funcional inmutabilidad\ConsoleApp_funcional\obj\Debug\net8.0\ConsoleApp_funcional.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Documents\GitHub\backend-csharp\programacion funcional inmutabilidad\ConsoleApp_funcional\obj\Debug\net8.0\ConsoleApp_funcional.sourcelink.json
+C:\Users\Omar\Documents\GitHub\backend-csharp\programacion funcional inmutabilidad\ConsoleApp_funcional\bin\Debug\net8.0\ConsoleApp_funcional.exe
+C:\Users\Omar\Documents\GitHub\backend-csharp\programacion funcional inmutabilidad\ConsoleApp_funcional\bin\Debug\net8.0\ConsoleApp_funcional.deps.json
+C:\Users\Omar\Documents\GitHub\backend-csharp\programacion funcional inmutabilidad\ConsoleApp_funcional\bin\Debug\net8.0\ConsoleApp_funcional.runtimeconfig.json
+C:\Users\Omar\Documents\GitHub\backend-csharp\programacion funcional inmutabilidad\ConsoleApp_funcional\bin\Debug\net8.0\ConsoleApp_funcional.dll
+C:\Users\Omar\Documents\GitHub\backend-csharp\programacion funcional inmutabilidad\ConsoleApp_funcional\bin\Debug\net8.0\ConsoleApp_funcional.pdb
+C:\Users\Omar\Documents\GitHub\backend-csharp\programacion funcional inmutabilidad\ConsoleApp_funcional\obj\Debug\net8.0\ConsoleApp_funcional.dll
+C:\Users\Omar\Documents\GitHub\backend-csharp\programacion funcional inmutabilidad\ConsoleApp_funcional\obj\Debug\net8.0\refint\ConsoleApp_funcional.dll
+C:\Users\Omar\Documents\GitHub\backend-csharp\programacion funcional inmutabilidad\ConsoleApp_funcional\obj\Debug\net8.0\ConsoleApp_funcional.pdb
+C:\Users\Omar\Documents\GitHub\backend-csharp\programacion funcional inmutabilidad\ConsoleApp_funcional\obj\Debug\net8.0\ConsoleApp_funcional.genruntimeconfig.cache
+C:\Users\Omar\Documents\GitHub\backend-csharp\programacion funcional inmutabilidad\ConsoleApp_funcional\obj\Debug\net8.0\ref\ConsoleApp_funcional.dll

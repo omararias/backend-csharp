@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp_funcional")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("funciones lambda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7bed1c97b9c6c861850781e94d6bccb401bc6626")]
-[assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp_funcional")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp_funcional")]
+[assembly: System.Reflection.AssemblyProductAttribute("funciones lambda")]
+[assembly: System.Reflection.AssemblyTitleAttribute("funciones lambda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
