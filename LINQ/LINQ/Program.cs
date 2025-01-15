@@ -12,7 +12,7 @@ var names = new List<string>()
 
 
 };
-
+/*
 var namesOrderedAscending = from n in names
                    orderby n
                    select n;
@@ -36,15 +36,26 @@ foreach (var name in namesOrderedDescending)
 {
     Console.WriteLine(name);
 }
+*/
 //creacion de funcion que unicamente seleccione los elementos que inicien con la letra J y los ordena de forma ascendente
 var namesSelected = from n in names
-                    where n.StartsWith("J")
+                        //condicional de que empiece con J AND tenga longitud mayor a 4
+                    where n.StartsWith("J") && n.Length > 4
                     orderby n
                     select n;
+
+var namesSelectedLambda=names.Where(n=> n.Length > 4 && n.StartsWith("J")).OrderBy(n => n)
+                    .Select(n => n);
 
 Console.WriteLine("************");
 //imprime la lista de nombres que inician con la letra J
 foreach (var name in namesSelected)
+{
+    Console.WriteLine(name);
+}
+//imprime la lista utilizando la funcion lambda
+Console.WriteLine("************");
+foreach (var name in namesSelectedLambda)
 {
     Console.WriteLine(name);
 }
