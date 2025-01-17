@@ -15,10 +15,10 @@ namespace ProjectAPI.Controllers
         }
 
         [HttpPost]
-        public decimal Resta(decimal a, decimal b)
+        //en el metodo post enviamos numbers.A y number.B en el body de la solicitud
+        public decimal Resta(Numbers numbers)
         {
-            decimal resultado = a - b;
-            return resultado;
+            return numbers.A - numbers.B;
         }
         [HttpPut]
         public decimal Edit(decimal a, decimal b)
@@ -34,4 +34,14 @@ namespace ProjectAPI.Controllers
             return resultado;
         }
     }
+
+
+    public class Numbers
+    {
+        public decimal A { get; set; }
+        public decimal B { get; set; }
+
+    }
+
+
 }
