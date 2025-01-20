@@ -16,8 +16,12 @@ namespace ProjectAPI.Controllers
 
         [HttpPost]
         //en el metodo post enviamos numbers.A y number.B en el body de la solicitud
-        public decimal Resta(Numbers numbers)
+        //obtenemos del header el host y el postman-token, para imprimirlo en consola posteriormente
+        public decimal Resta(Numbers numbers, [FromHeader] string Host, [FromHeader (Name ="Postman-Token") ] string postmantoken, [FromHeader(Name ="X-OmarCustom") ]string omi)
         {
+            Console.WriteLine(Host);
+            Console.WriteLine(postmantoken);
+            Console.WriteLine(omi);
             return numbers.A - numbers.B;
         }
         [HttpPut]
