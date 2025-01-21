@@ -135,6 +135,22 @@
   },
   {
     "ContainingType": "ProjectAPI.Controllers.PeopleController",
+    "Method": "Add",
+    "RelativePath": "api/People",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "persona",
+        "Type": "ProjectAPI.Controllers.PeopleController\u002BPeople",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjectAPI.Controllers.PeopleController",
     "Method": "Get",
     "RelativePath": "api/People/{id}",
     "HttpMethod": "GET",
@@ -149,7 +165,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "ProjectAPI.Controllers.People",
+        "Type": "ProjectAPI.Controllers.PeopleController\u002BPeople",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -169,7 +185,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[ProjectAPI.Controllers.People, ProjectAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[ProjectAPI.Controllers.PeopleController\u002BPeople, ProjectAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -195,7 +211,33 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[ProjectAPI.Controllers.People, ProjectAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[ProjectAPI.Controllers.PeopleController\u002BPeople, ProjectAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ProjectAPI.Controllers.PeopleController",
+    "Method": "GetPeopleByYear",
+    "RelativePath": "api/People/year/{year}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "year",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ProjectAPI.Controllers.PeopleController\u002BPeople, ProjectAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
