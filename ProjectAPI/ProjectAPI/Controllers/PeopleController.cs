@@ -9,7 +9,7 @@ namespace ProjectAPI.Controllers
     public class PeopleController : ControllerBase
     {
         private IPeopleService _peopleService;
-        public PeopleController(IPeopleService peopleService)
+        public PeopleController([FromKeyedServices("people")]IPeopleService peopleService)
         {
             _peopleService = peopleService;
         }
