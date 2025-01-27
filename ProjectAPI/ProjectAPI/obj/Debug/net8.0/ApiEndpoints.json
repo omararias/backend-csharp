@@ -266,5 +266,15 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "ProjectAPI.Controllers.SomeController",
+    "Method": "GetSync",
+    "RelativePath": "api/Some/sync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   }
 ]
