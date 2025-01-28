@@ -68,7 +68,7 @@
               "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\SomeController.cs",
               "ToolTip": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Controllers\\SomeController.cs*",
               "RelativeToolTip": "ProjectAPI\\Controllers\\SomeController.cs*",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-27T19:58:55.253Z",
               "EditorCaption": ""
@@ -83,8 +83,7 @@
               "RelativeToolTip": "ProjectAPI\\Controllers\\RandomController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAAwCgAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-24T16:11:37.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-24T16:11:37.2Z"
             },
             {
               "$type": "Document",
