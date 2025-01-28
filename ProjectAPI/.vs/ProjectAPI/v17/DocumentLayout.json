@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4FB1F286-2542-47F8-89B3-5C3A7685944B}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\omar\\documents\\github\\backend-csharp\\projectapi\\projectapi\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1F286-2542-47F8-89B3-5C3A7685944B}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\controllers\\postscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1F286-2542-47F8-89B3-5C3A7685944B}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\omar\\documents\\github\\backend-csharp\\projectapi\\projectapi\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1F286-2542-47F8-89B3-5C3A7685944B}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\services\\postsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1F286-2542-47F8-89B3-5C3A7685944B}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\omar\\documents\\github\\backend-csharp\\projectapi\\projectapi\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1F286-2542-47F8-89B3-5C3A7685944B}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\dtos\\postdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1F286-2542-47F8-89B3-5C3A7685944B}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\omar\\documents\\github\\backend-csharp\\projectapi\\projectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1F286-2542-47F8-89B3-5C3A7685944B}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB1F286-2542-47F8-89B3-5C3A7685944B}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\omar\\documents\\github\\backend-csharp\\projectapi\\projectapi\\services\\ipostsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB1F286-2542-47F8-89B3-5C3A7685944B}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\services\\ipostsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4FB1F286-2542-47F8-89B3-5C3A7685944B}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\omar\\documents\\github\\backend-csharp\\projectapi\\projectapi\\controllers\\somecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FB1F286-2542-47F8-89B3-5C3A7685944B}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\controllers\\somecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4FB1F286-2542-47F8-89B3-5C3A7685944B}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\omar\\documents\\github\\backend-csharp\\projectapi\\projectapi\\services\\randomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FB1F286-2542-47F8-89B3-5C3A7685944B}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\services\\randomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4FB1F286-2542-47F8-89B3-5C3A7685944B}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\omar\\documents\\github\\backend-csharp\\projectapi\\projectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4FB1F286-2542-47F8-89B3-5C3A7685944B}|ProjectAPI\\ProjectAPI.csproj|solutionrelative:projectapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4FB1F286-2542-47F8-89B3-5C3A7685944B}|ProjectAPI\\ProjectAPI.csproj|c:\\users\\omar\\documents\\github\\backend-csharp\\projectapi\\projectapi\\services\\peopleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,6 +79,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PostsController.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Controllers\\PostsController.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\PostsController.cs",
+              "ToolTip": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Controllers\\PostsController.cs",
+              "RelativeToolTip": "ProjectAPI\\Controllers\\PostsController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:50:47.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostsService.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Services\\PostsService.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Services\\PostsService.cs",
+              "ToolTip": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Services\\PostsService.cs",
+              "RelativeToolTip": "ProjectAPI\\Services\\PostsService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:34:07.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPostsService.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Services\\IPostsService.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Services\\IPostsService.cs",
+              "ToolTip": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Services\\IPostsService.cs",
+              "RelativeToolTip": "ProjectAPI\\Services\\IPostsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:31:05.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostDto.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\DTOs\\PostDto.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\DTOs\\PostDto.cs",
+              "ToolTip": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\DTOs\\PostDto.cs",
+              "RelativeToolTip": "ProjectAPI\\DTOs\\PostDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T16:26:36.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SomeController.cs",
               "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Controllers\\SomeController.cs",
               "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\SomeController.cs",
@@ -75,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "RandomController.cs",
               "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Controllers\\RandomController.cs",
               "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\RandomController.cs",
@@ -87,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "RandomService.cs",
               "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Services\\RandomService.cs",
               "RelativeDocumentMoniker": "ProjectAPI\\Services\\RandomService.cs",
@@ -99,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "IRandomService.cs",
               "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Services\\IRandomService.cs",
               "RelativeDocumentMoniker": "ProjectAPI\\Services\\IRandomService.cs",
@@ -111,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "People2Service.cs",
               "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Services\\People2Service.cs",
               "RelativeDocumentMoniker": "ProjectAPI\\Services\\People2Service.cs",
@@ -123,7 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "PeopleService.cs",
               "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Services\\PeopleService.cs",
               "RelativeDocumentMoniker": "ProjectAPI\\Services\\PeopleService.cs",
@@ -135,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "IPeopleService.cs",
               "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Services\\IPeopleService.cs",
               "RelativeDocumentMoniker": "ProjectAPI\\Services\\IPeopleService.cs",
@@ -147,7 +215,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Program.cs",
+              "RelativeToolTip": "ProjectAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T17:49:03.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "OperationController.cs",
               "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Controllers\\OperationController.cs",
               "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\OperationController.cs",
@@ -159,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "PeopleController.cs",
               "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Controllers\\PeopleController.cs",
               "RelativeDocumentMoniker": "ProjectAPI\\Controllers\\PeopleController.cs",
@@ -171,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "ProjectAPI.http",
               "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\ProjectAPI.http",
               "RelativeDocumentMoniker": "ProjectAPI\\ProjectAPI.http",
@@ -180,18 +261,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2025-01-15T17:49:21.215Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Program.cs",
-              "RelativeDocumentMoniker": "ProjectAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ProjectAPI\\ProjectAPI\\Program.cs",
-              "RelativeToolTip": "ProjectAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T17:49:03.508Z"
             }
           ]
         }
