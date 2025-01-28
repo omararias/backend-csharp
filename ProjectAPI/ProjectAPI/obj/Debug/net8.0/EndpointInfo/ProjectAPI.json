@@ -481,6 +481,18 @@
           }
         }
       }
+    },
+    "/api/Some/async": {
+      "get": {
+        "tags": [
+          "Some"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
     }
   },
   "components": {
