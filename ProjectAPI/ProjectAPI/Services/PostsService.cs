@@ -16,7 +16,6 @@ namespace ProjectAPI.Services
 
         public async Task<IEnumerable<PostDto>> Get()
         {
-//string url = "https://jsonplaceholder.typicode.com/posts";
             var response = await _httpClient.GetAsync(_httpClient.BaseAddress);
             var body = await response.Content.ReadAsStringAsync();
 
