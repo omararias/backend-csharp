@@ -9,17 +9,15 @@ namespace ProjectAPI.Services
 
         private HttpClient _httpClient;
 
-        public PostsService()
+        public PostsService(HttpClient httpClient)
         {
-
-            _httpClient = new HttpClient();
-
+            _httpClient = httpClient;
         }
 
         public async Task<IEnumerable<PostDto>> Get()
         {
-            string url = "https://jsonplaceholder.typicode.com/posts";
-            var response = await _httpClient.GetAsync(url);
+//string url = "https://jsonplaceholder.typicode.com/posts";
+            var response = await _httpClient.GetAsync(_httpClient.BaseAddress);
             var body = await response.Content.ReadAsStringAsync();
 
 
