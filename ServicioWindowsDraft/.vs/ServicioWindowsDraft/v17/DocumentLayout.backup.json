@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ServicioWindowsDraft\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3CE31991-031C-4CF1-A796-BB7EB26BC689}|ServicioWindowsDraft\\ServicioWindowsDraft.csproj|c:\\users\\omar\\documents\\github\\backend-csharp\\serviciowindowsdraft\\serviciowindowsdraft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE31991-031C-4CF1-A796-BB7EB26BC689}|ServicioWindowsDraft\\ServicioWindowsDraft.csproj|solutionrelative:serviciowindowsdraft\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE31991-031C-4CF1-A796-BB7EB26BC689}|ServicioWindowsDraft\\ServicioWindowsDraft.csproj|c:\\users\\omar\\documents\\github\\backend-csharp\\serviciowindowsdraft\\serviciowindowsdraft\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3CE31991-031C-4CF1-A796-BB7EB26BC689}|ServicioWindowsDraft\\ServicioWindowsDraft.csproj|solutionrelative:serviciowindowsdraft\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3CE31991-031C-4CF1-A796-BB7EB26BC689}|ServicioWindowsDraft\\ServicioWindowsDraft.csproj|c:\\users\\omar\\documents\\github\\backend-csharp\\serviciowindowsdraft\\serviciowindowsdraft\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3CE31991-031C-4CF1-A796-BB7EB26BC689}|ServicioWindowsDraft\\ServicioWindowsDraft.csproj|solutionrelative:serviciowindowsdraft\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -23,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ServicioWindowsDraft\\ServicioWindowsDraft\\Program.cs",
+              "RelativeDocumentMoniker": "ServicioWindowsDraft\\Program.cs",
+              "ToolTip": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ServicioWindowsDraft\\ServicioWindowsDraft\\Program.cs",
+              "RelativeToolTip": "ServicioWindowsDraft\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T15:54:08.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ServicioWindowsDraft\\ServicioWindowsDraft\\App.config",
+              "RelativeDocumentMoniker": "ServicioWindowsDraft\\App.config",
+              "ToolTip": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ServicioWindowsDraft\\ServicioWindowsDraft\\App.config",
+              "RelativeToolTip": "ServicioWindowsDraft\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-07T15:51:47.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Service1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ServicioWindowsDraft\\ServicioWindowsDraft\\Service1.cs",
               "RelativeDocumentMoniker": "ServicioWindowsDraft\\Service1.cs",
