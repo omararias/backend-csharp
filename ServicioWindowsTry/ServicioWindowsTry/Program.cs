@@ -12,12 +12,12 @@ namespace ServicioWindowsTry
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>
-        static void Main()
+        static void Main(ServiceBase getState)
         {
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
-                new Service1()
+                getState
             };
             ServiceBase.Run(ServicesToRun);
         }
