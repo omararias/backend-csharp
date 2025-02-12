@@ -9,7 +9,7 @@ namespace ServiciosCEGA
 {
     internal static class Program
     {
-        /// <summary>
+        ///<summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>
         static void Main()
