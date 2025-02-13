@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ServiciosCEGA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6CF18EF-796D-4C59-87D0-8908BD62DB42}|ServiciosCEGA\\ServiciosCEGA.csproj|C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ServiciosCEGA\\servicioscega\\getstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6CF18EF-796D-4C59-87D0-8908BD62DB42}|ServiciosCEGA\\ServiciosCEGA.csproj|c:\\users\\omar\\documents\\github\\backend-csharp\\servicioscega\\servicioscega\\getstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6CF18EF-796D-4C59-87D0-8908BD62DB42}|ServiciosCEGA\\ServiciosCEGA.csproj|solutionrelative:servicioscega\\getstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6CF18EF-796D-4C59-87D0-8908BD62DB42}|ServiciosCEGA\\ServiciosCEGA.csproj|c:\\users\\omar\\documents\\github\\backend-csharp\\servicioscega\\servicioscega\\getstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B6CF18EF-796D-4C59-87D0-8908BD62DB42}|ServiciosCEGA\\ServiciosCEGA.csproj|C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ServiciosCEGA\\servicioscega\\getstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B6CF18EF-796D-4C59-87D0-8908BD62DB42}|ServiciosCEGA\\ServiciosCEGA.csproj|solutionrelative:servicioscega\\getstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{B6CF18EF-796D-4C59-87D0-8908BD62DB42}|ServiciosCEGA\\ServiciosCEGA.csproj|solutionrelative:servicioscega\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6CF18EF-796D-4C59-87D0-8908BD62DB42}|ServiciosCEGA\\ServiciosCEGA.csproj|C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ServiciosCEGA\\servicioscega\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B6CF18EF-796D-4C59-87D0-8908BD62DB42}|ServiciosCEGA\\ServiciosCEGA.csproj|solutionrelative:servicioscega\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B6CF18EF-796D-4C59-87D0-8908BD62DB42}|ServiciosCEGA\\ServiciosCEGA.csproj|C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ServiciosCEGA\\servicioscega\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{B6CF18EF-796D-4C59-87D0-8908BD62DB42}|ServiciosCEGA\\ServiciosCEGA.csproj|solutionrelative:servicioscega\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CF18EF-796D-4C59-87D0-8908BD62DB42}|ServiciosCEGA\\ServiciosCEGA.csproj|C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ServiciosCEGA\\servicioscega\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B6CF18EF-796D-4C59-87D0-8908BD62DB42}|ServiciosCEGA\\ServiciosCEGA.csproj|solutionrelative:servicioscega\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,14 +44,14 @@
               "RelativeDocumentMoniker": "ServiciosCEGA\\GetState.cs",
               "ToolTip": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ServiciosCEGA\\ServiciosCEGA\\GetState.cs",
               "RelativeToolTip": "ServiciosCEGA\\GetState.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwAkAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T16:57:54.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ServiciosCEGA\\ServiciosCEGA\\packages.config",
               "RelativeDocumentMoniker": "ServiciosCEGA\\packages.config",
@@ -59,19 +59,21 @@
               "RelativeToolTip": "ServiciosCEGA\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-02-12T16:08:05.338Z"
+              "WhenOpened": "2025-02-12T16:08:05.338Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ServiciosCEGA\\ServiciosCEGA\\App.config",
               "RelativeDocumentMoniker": "ServiciosCEGA\\App.config",
               "ToolTip": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ServiciosCEGA\\ServiciosCEGA\\App.config",
               "RelativeToolTip": "ServiciosCEGA\\App.config",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-02-12T14:56:44.222Z"
+              "WhenOpened": "2025-02-12T14:56:44.222Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -81,7 +83,7 @@
               "RelativeDocumentMoniker": "ServiciosCEGA\\Program.cs",
               "ToolTip": "C:\\Users\\Omar\\Documents\\GitHub\\backend-csharp\\ServiciosCEGA\\ServiciosCEGA\\Program.cs",
               "RelativeToolTip": "ServiciosCEGA\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-11T18:17:23.416Z",
               "EditorCaption": ""

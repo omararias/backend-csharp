@@ -48,3 +48,5 @@ C:\Users\Omar\Documents\GitHub\backend-csharp\ServiciosCEGA\ServiciosCEGA\obj\De
 C:\Users\Omar\Documents\GitHub\backend-csharp\ServiciosCEGA\ServiciosCEGA\obj\Debug\Servicio.83082E51.Up2Date
 C:\Users\Omar\Documents\GitHub\backend-csharp\ServiciosCEGA\ServiciosCEGA\obj\Debug\ServiciosCEGA.exe
 C:\Users\Omar\Documents\GitHub\backend-csharp\ServiciosCEGA\ServiciosCEGA\obj\Debug\ServiciosCEGA.pdb
+C:\Users\Omar\Documents\GitHub\backend-csharp\ServiciosCEGA\ServiciosCEGA\bin\Debug\System.CodeDom.dll
+C:\Users\Omar\Documents\GitHub\backend-csharp\ServiciosCEGA\ServiciosCEGA\bin\Debug\System.CodeDom.xml

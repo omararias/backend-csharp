@@ -14,12 +14,32 @@ namespace ServiciosCEGA
         /// </summary>
         static void Main()
         {
+
+            #if DEBUG
+            GetState Service = new GetState();
+            Service.OnDebug();
+            System.Threading.Thread.Sleep(System.Threading.Timeout.Infinite);
+            #else
             ServiceBase[] ServicesToRun;
             ServicesToRun = new ServiceBase[]
             {
                 new GetState()
             };
             ServiceBase.Run(ServicesToRun);
+            #endif
+            
+
+
+
+            /*ServiceBase[] ServicesToRun;
+            //ServicesToRun = new ServiceBase[]
+            {
+                new GetState()
+            };
+            ServiceBase.Run(ServicesToRun);*/
+
+
+
         }
     }
 }
