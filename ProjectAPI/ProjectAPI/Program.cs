@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+using ProjectAPI.Models;
 using ProjectAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -19,6 +21,13 @@ builder.Services.AddHttpClient<IPostsService, PostsService>(c=>
 {
     c.BaseAddress = new Uri(builder.Configuration["BaseUrlPosts"]);
 });
+//conexion entity framework
+builder.Services.AddDbContext<StoreContext>(options =>
+{
+    options.UseSqlServer(builder.Configuration.GetConnectionString("StoreConnection"));
+
+});
+
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

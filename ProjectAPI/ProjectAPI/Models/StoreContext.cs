@@ -4,7 +4,7 @@ namespace ProjectAPI.Models
 {
     public class StoreContext : DbContext
     {
-
+ 
         public StoreContext(DbContextOptions<StoreContext> options) : base(options)
         {
         }

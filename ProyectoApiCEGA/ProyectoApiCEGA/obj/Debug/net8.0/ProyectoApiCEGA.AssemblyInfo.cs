@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProyectoApiCEGA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b87b032349382e1e901fbab77d72bd578b50e666")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99c663824793866902c9e6cf7437721c3f046bdb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProyectoApiCEGA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProyectoApiCEGA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

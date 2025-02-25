@@ -14,10 +14,13 @@ namespace ProjectAPI.Models
 
         public string Name { get; set; }
 
-        public string BrandId { get; set; }
+        public int BrandId { get; set; }
 
         [ForeignKey("BrandId")]
 
         public virtual Brand Brand { get; set; }
+
+        [Column (TypeName = "decimal(18,2)")]
+        public decimal Alcohol { get; set; }
     }
 }
