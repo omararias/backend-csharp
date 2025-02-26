@@ -22,5 +22,6 @@ namespace ProjectAPI.Models
 
         [Column (TypeName = "decimal(18,2)")]
         public decimal Alcohol { get; set; }
+
     }
 }
